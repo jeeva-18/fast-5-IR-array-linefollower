@@ -1,10 +1,10 @@
-#define m1 4 
-#define m2 5 
-#define m3 2 
-#define m4 3 
-#define e1 9 
-#define e2 10
-#define spd 90
+#define m1 4 //motor pin 1
+#define m2 5 //motor pin 2
+#define m3 2 //motor pin 3
+#define m4 3 //motor pin 4
+#define e1 9 //motor enable pin 1
+#define e2 10 //motor enable pin 2
+#define spd 95 // you can also mention speed of the motor
 #define ir1 A0
 #define ir2 A1
 #define ir3 A2
